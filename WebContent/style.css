@@ -1,0 +1,33 @@
+body {
+	font-family: arial;
+	background: #8DDFBF;
+	text-align: center;	 
+}
+
+section {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+
+.content {
+	background: #FFF;
+	border: 3px solid;
+	border-radius: 30px;
+	width: 300px;
+	padding: 30px;
+	
+}
+
+span {
+	display: block;
+}
+
+.content input {
+	margin-bottom: 10px;
+}
+
+.content input:first-child {
+	margin-top: 10px;
+}
